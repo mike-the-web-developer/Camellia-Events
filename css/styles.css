@@ -1,0 +1,92 @@
+#title {
+  background-color: #d9adad;
+  padding-bottom: 300px;
+}
+
+h1 {
+  text-align: center;
+  color: #7E777A;
+  font-family: 'Dancing Script', cursive;
+  font-size: 5rem;
+}
+
+h2 {
+  color: #7E777A;
+  text-align: center;
+}
+
+p {
+  color: #7E777A;
+  text-align: center;
+}
+
+.mainTitle {
+  top: -70px;
+}
+
+.mainImg {
+  text-align: center;
+}
+
+body {
+  background-color: #f6f6f6;
+}
+
+.card {
+  top: -270px;
+  left: 35%;
+  color: #7E777A;
+  background-color: #fceef5;
+  text-align: center;
+}
+
+.aboutUs {
+position: relative;
+top: -200px;
+}
+
+.profilePicture {
+  border-radius: 50%;
+  width: 35%;
+}
+
+.col-sm {
+  text-align: center;
+}
+.workBlurb{
+  font-size: 1.3rem;
+}
+.workPicture{
+  border-radius: 30%;
+  width: 60%;
+}
+.form-group{
+  width: 40%;
+  padding-left: 5%;
+
+}
+.form{
+  text-align: left;
+    color: black;
+    padding-left: 5%;
+font-weight: bold;
+
+
+}
+#formMessage{
+  padding-bottom: 7%;
+  padding-top: 7%;
+}
+.form-check{
+  margin-left: 1%;
+}
+.btn-form{
+  margin-left: 5%;
+}
+.workpartners{
+  width: 60%;
+  position: relative;
+  top: -250px;
+  left: 20%;
+
+}
